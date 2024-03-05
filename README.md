@@ -1,8 +1,7 @@
 
-# Web-App zur Verlaufsbefragung von Notfallpatient:innen (UKN Inselspital)
+# Web-App zur Verlaufsbefragung von Notfallpatient:innen
 ### General info
-This is the Code for the Living Case 1 at the Bern university of applied sciences. The Living Case 1 project is an opportunity for students to work with real Stakeholders and develop real-world applications. For this project our Stakeholder was [Prof. Dr. med. Wolf Hautz](http://www.notfallmedizin.insel.ch/de/ueber-uns/details/personlist/46/person/detail/wolf-hautz-mme/) from the [UKN Inselspital in Bern](https://www.insel.ch/de/). 
-
+This is the Code for the Living Case 1 at the Bern university of applied sciences. The Living Case 1 project is an opportunity for students to work with real Stakeholders and develop real-world applications.
 The developers of this Project are
  - Jorma Steiner [(StoneyJr)](https://github.com/StoneyJr)
  - Nicolas Gujer [(AngryBacteria)](https://github.com/AngryBacteria)
@@ -10,7 +9,7 @@ The developers of this Project are
 ### Background
 Diagnostic errors are a problem for the safety of the patient. Especially in the environment of an emergency station they occur more often than regular hospital stations. Diagnostic errors seem to increase the mortality and hospital duration [[1]](https://pubmed.ncbi.nlm.nih.gov/31068188/). There is the need of identifying such errors and find out why they happen.
 ### Goals
-Generally the goal of this project was to implement a working prototype for a Questionnaire-Website with which the UKN Bern can identify cases where diagnostic errors were present. For this the idea is to send patients an invitation for a questionnaire approximately two weeks after their stay in the emergency station. Our specific goals for this project were the following
+Generally the goal of this project was to implement a working prototype for a Questionnaire-Website with which the stakeholder can identify cases where diagnostic errors were present. For this the idea is to send patients an invitation for a questionnaire approximately two weeks after their stay in the emergency station. Our specific goals for this project were the following
  1. Create a web application for patients to complete a questionnaire
  2. Save the answers in a structured form in a Database
  3. Provide the possibility to the UKN to download the Data either via an Admin-Portal or files on the server
