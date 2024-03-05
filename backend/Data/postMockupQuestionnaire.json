@@ -1,0 +1,272 @@
+[
+  {
+    "questions": [
+      {
+        "answers": [],
+        "text": "Das ist eine Freitextfrage",
+        "subtext": "Man kann hier einen beliebigen String eingeben",
+        "optional": false,
+        "questiontype": "FreeText",
+        "options": [],
+        "index": 0
+      },
+      {
+        "answers": [],
+        "text": "Das ist eine 5-Punkte Likert Skala Frage",
+        "subtext": "Mögliche Antworten sind die 5 Likert-Punkte",
+        "optional": false,
+        "questiontype": "Likert",
+        "options": [],
+        "index": 1
+      },
+      {
+        "answers": [],
+        "text": "Das ist eine Single-Choice Frage",
+        "subtext": "Die möglichen Antworten werden im Fragebogen definiert",
+        "optional": false,
+        "questiontype": "SingleChoice",
+        "index": 2,
+        "options": [
+          {
+            "index": 0,
+            "value": "Erste Antwortmöglichkeit"
+          },
+          {
+            "index": 1,
+            "value": "Zweite Antwortmöglichkeit"
+          },
+          {
+            "index": 2,
+            "value": "Dritte Antwortmöglichkeit 2"
+          },
+          {
+            "index": 3,
+            "value": "Vierte Antwortmöglichkeit 3"
+          }
+        ]
+      },
+      {
+        "answers": [],
+        "text": "Das ist eine Multiple-Choice Frage",
+        "subtext": "Die möglichen Antworten werden im Fragebogen definiert",
+        "optional": false,
+        "questiontype": "MultipleChoice",
+        "index": 3,
+        "options": [
+          {
+            "index": 0,
+            "value": "Erste Antwortmöglichkeit"
+          },
+          {
+            "index": 1,
+            "value": "Zweite Antwortmöglichkeit"
+          },
+          {
+            "index": 2,
+            "value": "Dritte Antwortmöglichkeit 2"
+          },
+          {
+            "index": 3,
+            "value": "Vierte Antwortmöglichkeit 3"
+          }
+        ]
+      },
+      {
+        "answers": [],
+        "text": "Das ist eine optionale Freitextfrage",
+        "subtext": "Man kann hier einen beliebigen String eingeben",
+        "optional": true,
+        "questiontype": "FreeText",
+        "options": [],
+        "index": 4
+      }
+    ],
+    "identifier": "TF",
+    "language": "DE",
+    "title": "Testfragebogen für die Entwicklung",
+    "description": "Testfragebogen mit jeweils einer Frage für jeden definierten Fragetypen",
+    "descriptionForCustomer": "Dieser Fragebogen dient zum Testen der Funktionen dieser App. Alle verfügbaren Fragetypen sind vorhanden",
+    "validAfterDays": 15,
+    "validForDays": 10
+  },
+  {
+    "questions": [
+      {
+        "answers": [],
+        "text": "This is a free text question",
+        "subtext": "You can enter any string here",
+        "optional": false,
+        "questiontype": "FreeText",
+        "options": [],
+        "index": 0
+      },
+      {
+        "answers": [],
+        "text": "This is a 5-point Likert scale question",
+        "subtext": "Possible answers are the 5 Likert points",
+        "optional": false,
+        "questiontype": "Likert",
+        "options": [],
+        "index": 1
+      },
+      {
+        "answers": [],
+        "text": "This is a single choice question",
+        "subtext": "The possible answers are defined in the questionnaire",
+        "optional": false,
+        "questiontype": "SingleChoice",
+        "index": 2,
+        "options": [
+          {
+            "index": 0,
+            "value": "First choice"
+          },
+          {
+            "index": 1,
+            "value": "Second choice"
+          },
+          {
+            "index": 2,
+            "value": "Third choice"
+          },
+          {
+            "index": 3,
+            "value": "Fourth Choice"
+          }
+        ]
+      },
+      {
+        "answers": [],
+        "text": "This is a multiple choice question",
+        "subtext": "The possible answers are defined in the questionnaire",
+        "optional": false,
+        "questiontype": "MultipleChoice",
+        "index": 3,
+        "options": [
+          {
+            "index": 0,
+            "value": "First choice"
+          },
+          {
+            "index": 1,
+            "value": "Second choice"
+          },
+          {
+            "index": 2,
+            "value": "Third choice"
+          },
+          {
+            "index": 3,
+            "value": "Fourth Choice"
+          }
+        ]
+      },
+      {
+        "answers": [],
+        "text": "This is an optional free text question",
+        "subtext": "You can enter any string here",
+        "optional": true,
+        "questiontype": "FreeText",
+        "options": [],
+        "index": 4
+      }
+    ],
+    "identifier": "TF",
+    "language": "EN",
+    "title": "Test questionnaire for development",
+    "description": "Test questionnaire with one question for each defined question type",
+    "descriptionForCustomer": "This questionnaire is used to test the features of this app. All available question types are present",
+    "validAfterDays": 15,
+    "validForDays": 10
+  },
+  {
+    "questions": [
+      {
+        "answers": [],
+        "text": "Il s'agit d'une question de texte libre",
+        "subtext": "Vous pouvez écrire n'importe quelle chaîne de caractères ici",
+        "optional": false,
+        "questiontype": "FreeText",
+        "options": [],
+        "index": 0
+      },
+      {
+        "answers": [],
+        "text": "Il s'agit d'une question à likert avec 5 points",
+        "subtext": "Les réponses possibles sont les 5 points de likert",
+        "optional": false,
+        "questiontype": "Likert",
+        "options": [],
+        "index": 1
+      },
+      {
+        "answers": [],
+        "text": "Il s'agit d'une question à choix unique",
+        "subtext": "Les réponses possibles sont définies dans le questionnaire",
+        "optional": false,
+        "questiontype": "SingleChoice",
+        "index": 2,
+        "options": [
+          {
+            "index": 0,
+            "value": "Premier choix"
+          },
+          {
+            "index": 1,
+            "value": "Deuxième choix"
+          },
+          {
+            "index": 2,
+            "value": "Troisième choix"
+          },
+          {
+            "index": 3,
+            "value": "Quatrième choix"
+          }
+        ]
+      },
+      {
+        "answers": [],
+        "text": "Il s'agit d'une question à choix multiple",
+        "subtext": "Les réponses possibles sont définies dans le questionnaire",
+        "optional": false,
+        "questiontype": "MultipleChoice",
+        "index": 3,
+        "options": [
+          {
+            "index": 0,
+            "value": "Premier choix"
+          },
+          {
+            "index": 1,
+            "value": "Deuxième choix"
+          },
+          {
+            "index": 2,
+            "value": "Troisième choix"
+          },
+          {
+            "index": 3,
+            "value": "Quatrième choix"
+          }
+        ]
+      },
+      {
+        "answers": [],
+        "text": "Il s'agit d'une question optional de texte libre",
+        "subtext": "Vous pouvez écrire n'importe quelle chaîne de caractères ici",
+        "optional": true,
+        "questiontype": "FreeText",
+        "options": [],
+        "index": 4
+      }
+    ],
+    "identifier": "TF",
+    "language": "FR",
+    "title": "Questionnaire de test pour le développement",
+    "description": "Questionnaire de test avec une question pour chaque type de question défini",
+    "descriptionForCustomer": "Ce questionnaire est utilisé pour tester les fonctionnalités de cette application. Tous les types de questions disponibles sont présents",
+    "validAfterDays": 15,
+    "validForDays": 10
+  }
+]
